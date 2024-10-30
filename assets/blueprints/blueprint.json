@@ -1,0 +1,16 @@
+{
+    "preferredVersions": {
+        "php": "8.3",
+        "wp": "latest"
+    },
+    "plugins": [
+        "click-to-chat-for-whatsapp"
+    ],
+    "steps": [
+        {
+            "step": "login",
+            "username": "admin",
+            "password": "password"
+        }
+    ]
+}
